@@ -257,7 +257,7 @@ class AboutPage extends JFrame implements ActionListener
 		//text area
 		JTextArea about=new JTextArea(200,150);
 		about.setEditable(false);
-		about.setText("Welcome to Medical Management System \n\nDeveloped by: Nitin Kumar, Kamesh Shekhar, Omraj Kumar and Keshav Kumar\nCollege: Nalanda College, BCA Department (Session 2014-17)\n\nObjectivity: The Project is Aimed at providing ease in maintaing and handling the stocks\n of medicines.Along with it, The application provides facility to generate patient's report\n that will allow the doctor to treat the patient in best possible way");
+		about.setText("Welcome to Medical Management System \n\nDeveloped by: Harshal Jagtap \nCollege: MIT ADT College, Btech CSE (Session 2021-25)\n\nObjectivity: The Project is Aimed at providing ease in maintaing and handling the stocks\n of medicines.Along with it, The application provides facility to generate patient's report\n that will allow the doctor to treat the patient in best possible way");
 		about.setFont(new Font("Times New Roman",Font.ITALIC,15));
 		about.setBackground(Color.BLACK);
 		about.setForeground(Color.WHITE);
